@@ -1,0 +1,40 @@
+
+--- Struttura back-end:
+> Database utenti, con già inserito utente "gu" con password  "gu", con tutti i poteri di amministrazione, di operatività, di accessi, di modifica e di programmazione.
+> Pagina gestione utenti, accessibile solo da amministratore. in questa pagina è possibile inserire, cancellare e modificare utenti, con piena visibilità anche delle password inserite. in questa pagina è possibile assegnare agli utenti anche i permessi per l'accesso alle singole sezioni del programma.   
+> Sezioni del programma: Analisi dei costi, Magazzino, Tempi di lavorazione, Programmazione produzione, Lavorazioni esterne, Cash Flow, Inserimento dati, Avanzamento analisi.
+> Tutte le pagine avranno in basso a sinistra un pulsante freccia di navigazione che riporterà alla pagina precedente l'apertura della pagina stessa.
+> La lingua di interfaccia utente sarà l'italiano, la valuta l'euro.
+ 
+
+--- Struttura front-end:
+>  Tutte le pagine del programma avranno uno sfondo a tinta neutra azzurro chiaro, con in alto a destra in caratteri di colore bianco il nome della sezione e della sottosezione in cui ci si trova.
+> I pulsanti relativi a sezioni o sottosezioni non ancora implementate saranno inattivi, con trasparenza del 75% 
+> tutti i pulsanti presenteranno un effetto di ombra, tale da simularne il rilievo.
+> Tutti i comandi di access il layout nativo di access saranno nascosti, ma saranno invece disponibili solo agli utenti col permesso di amministratore, mediante toggle attivato col tasto "F12".
+> La barra del titolo della finestra, al centro della finestra, sarà "EFESTO", mentre nella parte destra sarà scritto "utente:  "seguito dal nome utente della sessione.
+> Saranno disponibili i pulsanti di finestra riduci, ingrandisci, chiudi, ma se si clicca su chiudi il programma prima salverà tutti i dati, poi terminerà. Le finestre saranno spostabili a piacere sul desktop. o su schermi aggiuntivi.
+
+
+--- Landing page - immagine di apertura a pieno schermo, inseribile anche dopo, in trasparenza al 70% Al centro form di login con richiesta nome e password per l'accesso.
+
+
+--- Pagina iniziale con l'elenco delle sezioni, sotto forma di pulsanti ognuno riportante alla relativa sezione. La dimensione dei pulsanti sarà tale che il loro insieme dovrà riempire i 3/8 della pagina. Sfondo di questa pagina: immagine a pieno schermo inserita in seguito, in trasparenza al 60%. Dopo l'ultimo pulsante ci sarà anche il pulsante di uscita dal programma, che salverà i dati per l'ultima volta, scollegherà l'utente e terminerà il programma. In fondo alla pagina, a destra, pulsante più piccolo "Gestione utenti", visibile solo da amministratore, che porta alla pagina gestione utenti.
+
+--- Sezione  Analisi dei costi - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Magazzino - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Tempi di lavorazione - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Programmazione produzione - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Lavorazioni esterne - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Cash Flow - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Inserimento dati - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+--- Sezione  Avanzamento analisi - landing page di sezione con pulsanti per accesso alle sotto-sezioni: (da definire)
+
+
